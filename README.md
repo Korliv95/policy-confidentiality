@@ -50,7 +50,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 6. I do not knowingly collect personally identifiable information from children under 6\. In the case I discover that a child under 6 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 3. I do not knowingly collect personally identifiable information from children under 3\. In the case I discover that a child under 3 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 **Changes to This Privacy Policy**
 
