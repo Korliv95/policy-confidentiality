@@ -41,6 +41,11 @@ I may employ third-party companies and individuals due to the following reasons:
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+**Advertising policies**
+
+The initial test is used to determine the specific display of ads. If I find out that a child will choose personalized ads based on the results of the survey and I find out about it, I will delete all the data collected about them and related to them.
+
+
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
